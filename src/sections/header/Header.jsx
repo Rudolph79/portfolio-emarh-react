@@ -16,7 +16,7 @@ const Header = () => {
           <strong>Télécom ParisTech</strong>. Je suis développeur Web, Mobile et Logiciel.
           En tant que développeur Full-Stack, je suis passionné par les langages JavaScript 
           (NodeJS, React JS, VueJS) et PHP (Symfony2, 3, 4, 5 & 6).
-          Je suis passionné d'<b>Enseignements</b>, de <b>Piano</b>, <b>NBA</b> et de <b>Football</b>.
+          Je suis passionné d'<b>Enseignements</b>, de <b>Piano</b>, de <b>NBA</b> et de <b>Football</b>.
         </p>
         <div className="header__cta">
           <a href="#contact" className='btn primary'>Me contacter</a>
